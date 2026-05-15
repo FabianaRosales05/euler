@@ -1,0 +1,10 @@
+# Archivos compilados de Python
+__pycache__/
+*.pyc
+
+# Documentos
+*.docx
+*.pdf
+
+# Archivos temporales
+*.tmp
